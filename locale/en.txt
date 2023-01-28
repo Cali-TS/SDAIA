@@ -96,13 +96,30 @@ Label_0E9CEE5D_36F3_E64E_419C_5A94FA5D3CA1_mobile.text = COMPANY NAME
 ## Media
 
 ### Title
-panorama_D1FCD910_DA02_4A1F_41D5_35909A77A038.label = RECEPTION
+panorama_E942258B_F948_C08C_41E0_9717999F4D43.label = 2
+panorama_F2506C3E_F949_4784_41D5_8AF1BBCBA9FF.label = RECEPTION
+panorama_F488C924_F94B_4184_41ED_ABD0BC72BC5C.label = 5
+panorama_F48A1DEA_F948_C08C_41E2_39DB610865A4.label = 3
+panorama_F48B06B6_F948_C084_41ED_56F9D1930B39.label = 4
 video_C55F6DEA_DA01_CA03_41B3_D9668BF80625.label = Animation english_1
+
+## Hotspot
+
+### URL
+overlay_E83FB5A5_F958_C084_41D8_2EDD5052E2A6.url = //www.youtube.com/embed/Ve2wuLiUW_Y?v=Ve2wuLiUW_Y
+overlay_EA6ACE5B_F94F_C38C_41E8_52A9A13979FD.url = //www.youtube.com/embed/xiEXjVe_eKY?feature=share
+overlay_EBE3A81B_F948_CF8C_41E0_2327D68F8716.url = //www.youtube.com/embed/gwmHU4PblHo
+overlay_EC457EBF_F97B_4084_41C1_357797B8DE0C.url = //www.youtube.com/embed/6Vl6VPar57I?v=6Vl6VPar57I
+overlay_EC67AFB5_F979_4087_41E4_E323F47E6C61.url = //www.youtube.com/embed/kBvD1GmMmjw?v=kBvD1GmMmjw
+overlay_EDD7E7B6_F949_4084_41EC_08D76AD90430.url = //www.youtube.com/embed/qo8_tM3hc0M?feature=share
+overlay_EDE47CAE_F979_4084_41E5_5F12FDC03D1A.url = //www.youtube.com/embed/gwmHU4PblHo
 
 ## Action
 
 ### URL
 LinkBehaviour_CE2B4116_DA02_3A03_41C5_63EA4EF935AE.source = https://od.data.gov.sa/en
+LinkBehaviour_E12E495E_F97B_C184_41E7_E5A4D5C50A75.source = https://www.vision2030.gov.sa/
+LinkBehaviour_EECD1B75_F979_4187_41CB_B3BFBCD5472D.source = https://sdaia.gov.sa/?Lang=en
 LinkBehaviour_F8198D60_DA02_CA3F_41CD_69D5806CD8E3.source = https://od.data.gov.sa/ar
 LinkBehaviour_F9CE00D8_DA06_3A0F_41D5_1B8A7EBE60A6.source = https://od.data.gov.sa/en/getenvolved
 LinkBehaviour_F9D47CD8_DA06_4A0F_41E5_954D7EF7DD16.source = https://od.data.gov.sa/Data/en/organization
